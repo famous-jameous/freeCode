@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Travel packages to visit Monaco">
+    <title>Travel Agency Page</title>
+  </head>
+  <body>
+    <main>
+      <h1>Experience Monaco</h1>
+        <p>Enjoy your vacation in one of the classiest countries in the world. Monaco's reputation as a luxury destination and its famous Monte Carlo Casino draw affluent visitors, contributing significantly to its economy and its attraction of tourists.</p>
+     <section></section>
+     <h2>Packages</h2>
+     <p>We offer an extensive range of holiday solutions to accommodate the needs of all our clients. From daily excursions in the most beautiful cities, to thorough tours of hidden villages and medieval towns to discover Monaco's lesser-known sides. </p>
+    <ul>
+          <li><a href="https://www.freecodecamp.org/learn" target="_blank" rel="noopener noreferrer">Group Travels</a></li>
+          <li><a href="https://www.freecodecamp.org/learn" target="_blank" rel="noopener noreferrer">Private Tours</a></li>
+        </ul>
+
+        <h2>Top Itineraries</h2>
+        <figure>
+          <a href="https://www.freecodecamp.org/learn" target="_blank" rel="noopener noreferrer"><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="La Condamine"></a>
+          <figcaption>Every tourist <strong>MUST</strong> visit La Condamine.</figcaption>  
+        </figure>
+        <figure>
+          <a href="https://www.freecodecamp.org/learn" target="_blank" rel="noopener noreferrer"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt ="Activities around Nice"></a>
+          <figcaption>There are plenty of good spots around Nice that are easy to miss.</figcaption>  
+        </figure>
+        <figure>
+          <a href="https://www.freecodecamp.org/learn" target="_blank" rel="noopener noreferrer"><img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt ="Activities around Nice"></a>
+          <figcaption>Travel the countryside around Monaco as well!</figcaption>  
+        </figure>
+    </main>
+    <footer>
+    
+    </footer>
+  </body>
+</html>
