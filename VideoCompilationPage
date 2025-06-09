@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Web Development Video Compilation</title>
+  </head>
+  <body>
+    <main>
+      <h1>Learn Web Development</h1>
+      <p>This page provides a compilation of beginner-friendly video tutorials covering the essential building blocks of web development: HTML, CSS, and JavaScript.</p>
+
+      <section>
+        <h2>HTML Basics</h2>
+        <p>This video introduces HTML, the standard markup language used to structure content on the web.</p>
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/GDGejH3SDNQ"
+          title="HTML &amp; Coding Introduction – Course for Beginners"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+        </iframe>
+      </section>
+
+      <section>
+        <h2>CSS Fundamentals</h2>
+        <p>This video covers CSS, which is used to style and visually enhance HTML elements on a webpage.</p>
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/OXGznpKZ_sA"
+          title="CSS Tutorial – Full Course for Beginners"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+        </iframe>
+      </section>
+
+      <section>
+        <h2>JavaScript Programming</h2>
+        <p>This video introduces JavaScript, a powerful scripting language used to create dynamic content and interactivity on the web.</p>
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/jS4aFq5-91M"
+          title="JavaScript Programming - Full Course"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+        </iframe>
+      </section>
+    </main>
+  </body>
+</html>
